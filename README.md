@@ -29,5 +29,9 @@ XMODIFIERS=@im=fcitx
 ```
 を書いて、一旦ログアウトする。その後、fcitx5-configtoolでMozcを追加する。
 
-## i3 WMの設定
+## GUI i3WMとかいろいろな設定
+現状はリンクを張るだけ
+```bash
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/halmaki/dotfiles/master/install.sh)"
+```
 
